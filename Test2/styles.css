@@ -1,0 +1,82 @@
+body
+{
+    background-image:url("img/BackImageConBlur2.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: 50%;
+    font-family:sans-serif;
+    padding: 100px;
+    padding-bottom: 0%;
+    padding-top: 0%;
+}
+
+
+.headline
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 210, 137, 0.401);
+    margin-left: 375px;
+    margin-right: 375px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+    border-bottom-right-radius: 0%;
+    border-bottom-left-radius: 0%;
+    border-bottom-style: hidden;
+}
+
+.headline h1
+{
+    font-size: 300%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.headline p
+{
+    font-size: 150%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.MainPage
+{
+    background:linear-gradient(rgba(255, 210, 137, 0.401), rgba(255, 255, 255, 0.401),rgba(255, 210, 137, 0.401));
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border:5px solid;
+    border-color: rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+}   
+
+.NomeArtigo
+{
+    font-weight: 900;
+    font-size: 300%;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0%;
+}
+
+.fotos
+{
+    background-color: rgba(255, 210, 137, 0.572);
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 375px;
+    border-radius: 30px;
+}
+
+hr
+{
+    height: 4px;
+    background-color: rgb(255, 210, 137);
+    border-color: rgb(255, 210, 137);
+}
+
+.questionario
+{
+    margin: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+}
